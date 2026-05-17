@@ -9,12 +9,12 @@ An ESP32-based water depth monitor using a submersible pressure sensor. Measurem
 | Component | Details |
 |---|---|
 | Microcontroller | ESP32 (ESP32-WROOM-32) |
+| Power supply | 24VDC (sensor supply voltage) |
 | Depth sensor | QDY30A submersible level transmitter, voltage output (0–5V), 3-wire (Anhui Qidian Automation Technology) |
 
 ![Depth sensor](images/depth-sensor.jpg)
 
 ![Depth sensor closeup](images/depth-sensor-close.jpg)
-| Power supply | 24VDC (sensor supply voltage) |
 
 ### Wiring
 
